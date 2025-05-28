@@ -1,2 +1,1 @@
-<h1> Hello Dear Students!! Welcome to DevOps Project-2!! </h1>
-<h2> By Mr. Sai from Saidemy!! </h2>
+<h1> Welcome To The Project CI/CD Pipeline Using Jenkins </h1>
